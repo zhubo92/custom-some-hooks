@@ -1,9 +1,8 @@
 # custom-some-hooks
 
-<div align="center" style="margin-bottom: 20px;">
-  A high-quality & reliable Vue Hooks library.
-</div>
+A high-quality & reliable Vue Hooks library.
 
+## 安装方式
 ```shell
 npm i custom-some-hooks
 ```
