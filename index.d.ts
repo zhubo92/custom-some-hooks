@@ -1,7 +1,7 @@
 import type {App} from "vue";
 
 declare const useResize: {
-    (el: HTMLElement, cb: Function): void;
+    (el: HTMLElement, cb: (rect: DOMRectReadOnly) => void): void;
     install: (app: App) => void;
 }
 
