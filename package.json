@@ -1,0 +1,19 @@
+{
+  "name": "custom-some-hooks",
+  "version": "1.0.2",
+  "description": "vue hooks library",
+  "main": "dist/custom-some-hooks.umd.js",
+  "module": "dist/custom-some-hooks.mjs",
+  "scripts": {
+    "build": "vite build"
+  },
+  "files": ["dist", "index.d.ts", "README.md"],
+  "keywords": ["hooks", "vue hooks", "vue"],
+  "author": "朱波",
+  "license": "MIT",
+  "packageManager": "pnpm@10.5.0",
+  "devDependencies": {
+    "vite": "^6.2.0",
+    "vue": "^3.5.13"
+  }
+}
